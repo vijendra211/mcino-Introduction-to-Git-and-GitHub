@@ -15,3 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 Bug fix: Corrected a typo in the project documentation.
+Revert exercise: documentation update for pull request practice.
